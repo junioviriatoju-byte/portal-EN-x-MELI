@@ -1,0 +1,1 @@
+Portal Semanal 4.4 — publique este index.html no GitHub Pages (root).
